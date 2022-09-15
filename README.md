@@ -11,7 +11,7 @@ And download <code>nougat.js</code> from this repository. Once you've downloaded
 # Usage
 The usage is simple.
 <code>
-nougat.launch('#display', <android version>, true, true);
+nougat.launch('#display', &lt;android version>, true, true);
 </code><br>
 For example, to launch Android 6.0, you use: <br>
 <code>
