@@ -29,4 +29,4 @@ That's all to it, enjoy! <br>
 You can see it live on the following sites: <br>
 [nougat.glitch.me](https://nougat.glitch.me/)<br>
 [android-emulator.w3spaces.com](https://android-emulator.w3spaces.com/)<br>
-[android-emulator.c1.biz](https://android-emulator.c1.biz/)<br>
+[android-emulator.mygamesonline.org](https://android-emulator.mygamesonline.org)<br>
